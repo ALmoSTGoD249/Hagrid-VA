@@ -29,7 +29,7 @@ Hagrid is a personal assistant application that responds to voice commands and p
    ```bash
    cd hagrid
    ```
-     ```
+     
 3. **Install Required Packages**:
    ```bash
    pip install -r requirements.txt
@@ -48,8 +48,8 @@ This project is licensed under the MIT License.
 ### Important Notes
 
 1. **Never Commit Sensitive Information**: Never update or push any changes without verifying that it does not contain any sensitive information such as name and API key.
-2. **Review Dependencies**: Confirm that all required packages are listed in `requirements.txt`.
-3. **Replace API**: You need to replace API keys with your own
+2. **Review Dependencies**: Confirm that all required packages are installed as mentioned in `requirements.txt`.
+3. **Replace API**: You need to replace API keys with your own.
 
 Feel free to customize the code and documentation to fit your needs better!
 
