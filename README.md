@@ -39,6 +39,11 @@ Hagrid is a personal assistant application that responds to voice commands and p
    python main.py
    ```
 
+##Screenshot
+
+![image](https://github.com/user-attachments/assets/c790cd45-09a4-465b-88e8-50ca1cfd5f41)
+
+
 ## License
 
 This project is licensed under the MIT License. 
