@@ -1,7 +1,3 @@
-Here’s a polished version of the README for your Hagrid personal assistant application:
-
----
-
 # Hagrid-VA
 
 Hagrid is a personal assistant application that responds to voice commands and performs tasks such as opening applications, searching the web, and more.
