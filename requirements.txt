@@ -1,0 +1,7 @@
+openai
+pyautogui
+requests
+rich
+pyttsx3
+SpeechRecognition
+python-dotenv
