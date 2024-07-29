@@ -4,7 +4,7 @@ Here’s a polished version of the README for your Hagrid personal assistant app
 
 # Hagrid-VA
 
-Hagrid is a personal assistant application that responds to voice commands, performing tasks such as opening applications, searching the web, and more.
+Hagrid is a personal assistant application that responds to voice commands and performs tasks such as opening applications, searching the web, and more.
 
 ## Features
 
@@ -27,19 +27,14 @@ Hagrid is a personal assistant application that responds to voice commands, perf
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/hagrid.git
+   git clone https://github.com/ALmoSTGoD249/Hagrid-VA.git
    ```
 2. **Navigate to the Project Directory**:
    ```bash
    cd hagrid
    ```
-3. **Create a `.env` File**:
-   - In the root directory, create a `.env` file and add your API keys:
-     ```env
-     OPENAI_API_KEY=your_openai_api_key_here
-     WEATHER_API_KEY=your_weather_api_key_here
      ```
-4. **Install Required Packages**:
+3. **Install Required Packages**:
    ```bash
    pip install -r requirements.txt
    ```
@@ -50,16 +45,16 @@ Hagrid is a personal assistant application that responds to voice commands, perf
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. 
 
 ---
 
 ### Important Notes
 
-1. **Never Commit Sensitive Information**: Ensure your `.env` file and any other sensitive data are included in `.gitignore`.
+1. **Never Commit Sensitive Information**: Never update or push any changes without verifying that it does not contain any sensitive information such as name and API key.
 2. **Review Dependencies**: Confirm that all required packages are listed in `requirements.txt`.
-3. **Test Locally**: Validate that your code functions correctly before pushing changes to GitHub.
+3. **Replace API**: You need to replace API keys with your own
 
-Feel free to customize the code and documentation to better fit your needs!
+Feel free to customize the code and documentation to fit your needs better!
 
 ---
